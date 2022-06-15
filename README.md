@@ -1,2 +1,2 @@
 # movie-booking
-this layout is created using html,css,js for movie booking website.
+this is a layout of movie-booking website designed using html,css and js.
